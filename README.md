@@ -2,14 +2,6 @@
 
 > A Text Mining and Data Mining project that predicts customer churn in retail using RFM analysis, classification models, and NLP techniques.
 
----
-
-## 👩‍💻 Authors
-
-- **Sri Varshini S** — srivarshini.s2022@vitstudent.ac.in
-- **Rakhi Mol V** — rakhimol.v@vit.ac.in
-
----
 
 ## 📌 Project Overview
 
